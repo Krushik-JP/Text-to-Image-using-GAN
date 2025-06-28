@@ -1,0 +1,5 @@
+https://arxiv.org/abs/1612.03242
+https://laion.ai/blog/laion-5b/
+https://www.kaggle.com/datasets/sovitrath/cub-200-bird-species-xml-detection-dataset
+
+
